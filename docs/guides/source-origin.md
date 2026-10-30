@@ -44,7 +44,7 @@ A script is two files. The install filename is not a convention, it is derived:
 `variables()` lowercases `APP` and strips spaces to get `NSAPP`, then appends
 `-install`. `APP="MyApp"` therefore requires exactly:
 
-```
+```text
 ct/myapp.sh
 install/myapp-install.sh
 ```
@@ -98,7 +98,7 @@ rather than for iterating on one.
 No push, no network on the scripts side, and the only variant that works with a
 **private** fork. Clone both repositories side by side on the Proxmox host:
 
-```
+```text
 somewhere/
 ├── core/
 └── DevScripts/

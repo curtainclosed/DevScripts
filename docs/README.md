@@ -5,7 +5,7 @@ Official documentation for using, understanding, developing, and contributing to
 > [!IMPORTANT]
 > The latest documentation is always published on our website:
 >
-> **https://community-scripts.org/docs**
+> **<https://community-scripts.org/docs>**
 >
 > The website is the canonical documentation source. Repository files may represent source content or implementation details, but the published documentation should always be used as the current reference.
 
@@ -242,7 +242,7 @@ The documentation website provides full-text search.
 
 Open:
 
-**https://community-scripts.org/docs**
+**<https://community-scripts.org/docs>**
 
 Then use the search field or press:
 
@@ -259,7 +259,7 @@ Do not rely on hard-coded document counts, line counts, version labels, complete
 
 For the latest content, navigation, examples, and references, always use:
 
-## **https://community-scripts.org/docs**
+## **<https://community-scripts.org/docs>**
 
 ---
 

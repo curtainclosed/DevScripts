@@ -87,7 +87,7 @@ Inside an existing CT, run the same `ct/<app>.sh` script. Detection switches to 
 
 ## Architecture
 
-```
+```text
 ct/*.sh → core: core/build.func
             ├─ Incus  → incus/build.func
             │             ├─ ui/build-ui.func
